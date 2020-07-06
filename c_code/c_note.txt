@@ -4,7 +4,13 @@ c语言笔记
 双精度浮点double——%lf
 scanf——输入 scanf（"%d",&a）; a是名字
 printf——输出 printf("%f",&b); b是名字
+/n 换行
 
+++  +1
 a=10
 a++=10     ++a=11
 a=11       a=11
+
+total%=a+2
+total=total%(a+a)
+
