@@ -1,0 +1,10 @@
+c语言笔记
+整数int——%d
+单精度浮点float——%f
+双精度浮点double——%lf
+scanf——输入 scanf（"%d",&a）; a是名字
+printf——输出 printf("%f",&b); b是名字
+
+a=10
+a++=10     ++a=11
+a=11       a=11
