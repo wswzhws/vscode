@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="437b0a91-d42b-44fd-b05b-7739e58712b7" name="Default Changelist" comment="" />
+    <list default="true" id="437b0a91-d42b-44fd-b05b-7739e58712b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c_code/text.exe" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,6 +34,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/c_code" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\文件\Github_code\vscode\c_code" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,10 +61,32 @@
       <workItem from="1605521012602" duration="28000" />
       <workItem from="1605521072340" duration="19000" />
       <workItem from="1605522522081" duration="20000" />
+      <workItem from="1606734273780" duration="66000" />
+      <workItem from="1606734379545" duration="9000" />
+      <workItem from="1606735518396" duration="406000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1219" y="378" key="#Notifications" timestamp="1606734285749">
+      <screen x="-1920" y="38" width="1920" height="1042" />
+    </state>
+    <state x="-1219" y="378" key="#Notifications/-1920.38.1920.1042/0.30.1536.834@-1920.38.1920.1042" timestamp="1606734285749" />
+    <state x="223" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606735806464">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="223" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.38.1920.1042/0.30.1536.834@0.30.1536.834" timestamp="1606735806464" />
+    <state x="549" y="189" key="FileChooserDialogImpl" timestamp="1606735910908">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="549" y="189" key="FileChooserDialogImpl/-1920.38.1920.1042/0.30.1536.834@0.30.1536.834" timestamp="1606735910908" />
+    <state x="154" y="73" key="SettingsEditor" timestamp="1606735662389">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="-1459" y="199" key="SettingsEditor/-1920.38.1920.1042/0.30.1536.834@-1920.38.1920.1042" timestamp="1606735560879" />
+    <state x="154" y="73" key="SettingsEditor/-1920.38.1920.1042/0.30.1536.834@0.30.1536.834" timestamp="1606735662389" />
   </component>
 </project>
